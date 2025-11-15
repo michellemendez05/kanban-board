@@ -1,0 +1,20 @@
+.grocery-list {
+  border: 5px; 
+  border-style: solid;
+  width : 200px;
+  border-color : pink;
+  padding : 10px;
+  margin : 10px;
+}
+.h1 {
+  text-align: center;
+  color: pink;
+}
+.subheading {
+  color: pink;
+}
+button,
+.grocery-list button {
+  background-color: pink;
+  border: none;
+}
